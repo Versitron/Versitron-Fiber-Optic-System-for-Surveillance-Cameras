@@ -59,3 +59,8 @@ Built for durability in harsh terrain and remote installations.
 Engineered to meet military reliability, durability, and signal integrity standards.
 
 ---
+
+**Explore the full collection of Versitron serial-to-fiber and industrial fiber-optic solutions:**  
+[Check all the products in this collection](https://www.versitron.com/collections/serial-to-fiber-converters)
+
+---
